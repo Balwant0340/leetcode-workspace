@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Balwant0340/leetcode-workspace/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/Balwant0340/leetcode-workspace/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
@@ -48,5 +49,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Balwant0340/leetcode-workspace/tree/master/0029-divide-two-integers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Balwant0340/leetcode-workspace/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
