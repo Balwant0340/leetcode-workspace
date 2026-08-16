@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Balwant0340/leetcode-workspace/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/Balwant0340/leetcode-workspace/tree/master/0120-triangle) |
 ## Memoization
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Balwant0340/leetcode-workspace/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Balwant0340/leetcode-workspace/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Balwant0340/leetcode-workspace/tree/master/0018-4sum) |
+| [0120-triangle](https://github.com/Balwant0340/leetcode-workspace/tree/master/0120-triangle) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Balwant0340/leetcode-workspace/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
