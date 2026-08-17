@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Balwant0340/leetcode-workspace/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Balwant0340/leetcode-workspace/tree/master/0018-4sum) |
 | [0120-triangle](https://github.com/Balwant0340/leetcode-workspace/tree/master/0120-triangle) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Balwant0340/leetcode-workspace/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Balwant0340/leetcode-workspace/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
