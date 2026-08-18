@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Balwant0340/leetcode-workspace/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Balwant0340/leetcode-workspace/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sliding Window
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Balwant0340/leetcode-workspace/tree/master/0018-4sum) |
 | [0120-triangle](https://github.com/Balwant0340/leetcode-workspace/tree/master/0120-triangle) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Balwant0340/leetcode-workspace/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Balwant0340/leetcode-workspace/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Balwant0340/leetcode-workspace/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
