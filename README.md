@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Balwant0340/leetcode-workspace/tree/master/0008-string-to-integer-atoi) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Balwant0340/leetcode-workspace/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Balwant0340/leetcode-workspace/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Balwant0340/leetcode-workspace/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Balwant0340/leetcode-workspace/tree/master/0018-4sum) |
 | [0120-triangle](https://github.com/Balwant0340/leetcode-workspace/tree/master/0120-triangle) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Balwant0340/leetcode-workspace/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Balwant0340/leetcode-workspace/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Balwant0340/leetcode-workspace/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Balwant0340/leetcode-workspace/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
