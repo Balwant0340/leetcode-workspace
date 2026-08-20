@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Balwant0340/leetcode-workspace/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/Balwant0340/leetcode-workspace/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Balwant0340/leetcode-workspace/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,9 +59,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Balwant0340/leetcode-workspace/tree/master/0029-divide-two-integers) |
+| [0231-power-of-two](https://github.com/Balwant0340/leetcode-workspace/tree/master/0231-power-of-two) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Balwant0340/leetcode-workspace/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Balwant0340/leetcode-workspace/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Balwant0340/leetcode-workspace/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
