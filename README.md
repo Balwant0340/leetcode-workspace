@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Balwant0340/leetcode-workspace/tree/master/0029-divide-two-integers) |
+| [0191-number-of-1-bits](https://github.com/Balwant0340/leetcode-workspace/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Balwant0340/leetcode-workspace/tree/master/0231-power-of-two) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Balwant0340/leetcode-workspace/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Balwant0340/leetcode-workspace/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Balwant0340/leetcode-workspace/tree/master/2425-bitwise-xor-of-all-pairings) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Balwant0340/leetcode-workspace/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
