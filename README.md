@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Balwant0340/leetcode-workspace/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Balwant0340/leetcode-workspace/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Balwant0340/leetcode-workspace/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Balwant0340/leetcode-workspace/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Balwant0340/leetcode-workspace/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Balwant0340/leetcode-workspace/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Balwant0340/leetcode-workspace/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Balwant0340/leetcode-workspace/tree/master/0191-number-of-1-bits) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Balwant0340/leetcode-workspace/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
