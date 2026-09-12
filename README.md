@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Balwant0340/leetcode-workspace/tree/master/0349-intersection-of-two-arrays) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Balwant0340/leetcode-workspace/tree/master/2094-finding-3-digit-even-numbers) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Balwant0340/leetcode-workspace/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Balwant0340/leetcode-workspace/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Balwant0340/leetcode-workspace/tree/master/3483-unique-3-digit-even-numbers) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Balwant0340/leetcode-workspace/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Balwant0340/leetcode-workspace/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Balwant0340/leetcode-workspace/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Balwant0340/leetcode-workspace/tree/master/2094-finding-3-digit-even-numbers) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Balwant0340/leetcode-workspace/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Balwant0340/leetcode-workspace/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Balwant0340/leetcode-workspace/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Balwant0340/leetcode-workspace/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Balwant0340/leetcode-workspace/tree/master/0018-4sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Balwant0340/leetcode-workspace/tree/master/0349-intersection-of-two-arrays) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Balwant0340/leetcode-workspace/tree/master/2094-finding-3-digit-even-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Balwant0340/leetcode-workspace/tree/master/0231-power-of-two) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Balwant0340/leetcode-workspace/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Balwant0340/leetcode-workspace/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
@@ -145,5 +149,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/Balwant0340/leetcode-workspace/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Balwant0340/leetcode-workspace/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
