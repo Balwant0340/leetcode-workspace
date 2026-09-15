@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Balwant0340/leetcode-workspace/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Balwant0340/leetcode-workspace/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Balwant0340/leetcode-workspace/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Balwant0340/leetcode-workspace/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Balwant0340/leetcode-workspace/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3794-reverse-string-prefix](https://github.com/Balwant0340/leetcode-workspace/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Balwant0340/leetcode-workspace/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Balwant0340/leetcode-workspace/tree/master/0120-triangle) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Balwant0340/leetcode-workspace/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Memoization
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Balwant0340/leetcode-workspace/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Balwant0340/leetcode-workspace/tree/master/0018-4sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Balwant0340/leetcode-workspace/tree/master/0349-intersection-of-two-arrays) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Balwant0340/leetcode-workspace/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3794-reverse-string-prefix](https://github.com/Balwant0340/leetcode-workspace/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Balwant0340/leetcode-workspace/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Balwant0340/leetcode-workspace/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Linked List
 |  |
 | ------- |
