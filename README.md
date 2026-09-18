@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Balwant0340/leetcode-workspace/tree/master/0349-intersection-of-two-arrays) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Balwant0340/leetcode-workspace/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Balwant0340/leetcode-workspace/tree/master/2094-finding-3-digit-even-numbers) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Balwant0340/leetcode-workspace/tree/master/2367-number-of-arithmetic-triplets) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Balwant0340/leetcode-workspace/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Balwant0340/leetcode-workspace/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Balwant0340/leetcode-workspace/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Balwant0340/leetcode-workspace/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Balwant0340/leetcode-workspace/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Balwant0340/leetcode-workspace/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Balwant0340/leetcode-workspace/tree/master/2094-finding-3-digit-even-numbers) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Balwant0340/leetcode-workspace/tree/master/2367-number-of-arithmetic-triplets) |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Balwant0340/leetcode-workspace/tree/master/0836-rectangle-overlap) |
+## Counting
+|  |
+| ------- |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Balwant0340/leetcode-workspace/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 <!---LeetCode Topics End-->
