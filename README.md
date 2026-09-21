@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Balwant0340/leetcode-workspace/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Balwant0340/leetcode-workspace/tree/master/0349-intersection-of-two-arrays) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Balwant0340/leetcode-workspace/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Balwant0340/leetcode-workspace/tree/master/2094-finding-3-digit-even-numbers) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Balwant0340/leetcode-workspace/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Balwant0340/leetcode-workspace/tree/master/0018-4sum) |
 | [0120-triangle](https://github.com/Balwant0340/leetcode-workspace/tree/master/0120-triangle) |
+| [0169-majority-element](https://github.com/Balwant0340/leetcode-workspace/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Balwant0340/leetcode-workspace/tree/master/0349-intersection-of-two-arrays) |
 | [1528-shuffle-string](https://github.com/Balwant0340/leetcode-workspace/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/Balwant0340/leetcode-workspace/tree/master/1534-count-good-triplets) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Balwant0340/leetcode-workspace/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Balwant0340/leetcode-workspace/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Balwant0340/leetcode-workspace/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/Balwant0340/leetcode-workspace/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Balwant0340/leetcode-workspace/tree/master/0349-intersection-of-two-arrays) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Balwant0340/leetcode-workspace/tree/master/2094-finding-3-digit-even-numbers) |
 ## Bit Manipulation
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Balwant0340/leetcode-workspace/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Balwant0340/leetcode-workspace/tree/master/0191-number-of-1-bits) |
 ## Greedy
 |  |
@@ -179,5 +183,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Balwant0340/leetcode-workspace/tree/master/0169-majority-element) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Balwant0340/leetcode-workspace/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Balwant0340/leetcode-workspace/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
