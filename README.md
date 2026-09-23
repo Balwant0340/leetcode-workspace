@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Balwant0340/leetcode-workspace/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Balwant0340/leetcode-workspace/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Balwant0340/leetcode-workspace/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Balwant0340/leetcode-workspace/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Balwant0340/leetcode-workspace/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Balwant0340/leetcode-workspace/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Balwant0340/leetcode-workspace/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Balwant0340/leetcode-workspace/tree/master/0349-intersection-of-two-arrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Balwant0340/leetcode-workspace/tree/master/2367-number-of-arithmetic-triplets) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Balwant0340/leetcode-workspace/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Balwant0340/leetcode-workspace/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/Balwant0340/leetcode-workspace/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Balwant0340/leetcode-workspace/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Balwant0340/leetcode-workspace/tree/master/0349-intersection-of-two-arrays) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Balwant0340/leetcode-workspace/tree/master/2094-finding-3-digit-even-numbers) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Balwant0340/leetcode-workspace/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
