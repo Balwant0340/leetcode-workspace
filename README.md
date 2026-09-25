@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Balwant0340/leetcode-workspace/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Balwant0340/leetcode-workspace/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Balwant0340/leetcode-workspace/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Balwant0340/leetcode-workspace/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Balwant0340/leetcode-workspace/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Balwant0340/leetcode-workspace/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Balwant0340/leetcode-workspace/tree/master/3870-count-commas-in-range) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Balwant0340/leetcode-workspace/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Balwant0340/leetcode-workspace/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Balwant0340/leetcode-workspace/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Balwant0340/leetcode-workspace/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Balwant0340/leetcode-workspace/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Balwant0340/leetcode-workspace/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Balwant0340/leetcode-workspace/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Balwant0340/leetcode-workspace/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3903-smallest-stable-index-i](https://github.com/Balwant0340/leetcode-workspace/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Balwant0340/leetcode-workspace/tree/master/3904-smallest-stable-index-ii) |
 ## Matrix
