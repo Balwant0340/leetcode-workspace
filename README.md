@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/Balwant0340/leetcode-workspace/tree/master/2094-finding-3-digit-even-numbers) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Balwant0340/leetcode-workspace/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/Balwant0340/leetcode-workspace/tree/master/2418-sort-the-people) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Balwant0340/leetcode-workspace/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Balwant0340/leetcode-workspace/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Balwant0340/leetcode-workspace/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Balwant0340/leetcode-workspace/tree/master/3483-unique-3-digit-even-numbers) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Balwant0340/leetcode-workspace/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Balwant0340/leetcode-workspace/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Balwant0340/leetcode-workspace/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Balwant0340/leetcode-workspace/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Balwant0340/leetcode-workspace/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Balwant0340/leetcode-workspace/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Balwant0340/leetcode-workspace/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
