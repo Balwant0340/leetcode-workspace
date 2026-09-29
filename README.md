@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Balwant0340/leetcode-workspace/tree/master/0231-power-of-two) |
 | [0836-rectangle-overlap](https://github.com/Balwant0340/leetcode-workspace/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Balwant0340/leetcode-workspace/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Balwant0340/leetcode-workspace/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Balwant0340/leetcode-workspace/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Balwant0340/leetcode-workspace/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Balwant0340/leetcode-workspace/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Balwant0340/leetcode-workspace/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Balwant0340/leetcode-workspace/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1773-count-items-matching-a-rule](https://github.com/Balwant0340/leetcode-workspace/tree/master/1773-count-items-matching-a-rule) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Balwant0340/leetcode-workspace/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Balwant0340/leetcode-workspace/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Balwant0340/leetcode-workspace/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Balwant0340/leetcode-workspace/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Balwant0340/leetcode-workspace/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/Balwant0340/leetcode-workspace/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Balwant0340/leetcode-workspace/tree/master/0231-power-of-two) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Balwant0340/leetcode-workspace/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Balwant0340/leetcode-workspace/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Balwant0340/leetcode-workspace/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Balwant0340/leetcode-workspace/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/Balwant0340/leetcode-workspace/tree/master/1534-count-good-triplets) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Balwant0340/leetcode-workspace/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Balwant0340/leetcode-workspace/tree/master/2094-finding-3-digit-even-numbers) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Balwant0340/leetcode-workspace/tree/master/2367-number-of-arithmetic-triplets) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Balwant0340/leetcode-workspace/tree/master/3483-unique-3-digit-even-numbers) |
@@ -207,4 +211,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Balwant0340/leetcode-workspace/tree/master/0169-majority-element) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Balwant0340/leetcode-workspace/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Balwant0340/leetcode-workspace/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
