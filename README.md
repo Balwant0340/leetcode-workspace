@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Balwant0340/leetcode-workspace/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/Balwant0340/leetcode-workspace/tree/master/0020-valid-parentheses) |
 | [1528-shuffle-string](https://github.com/Balwant0340/leetcode-workspace/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Balwant0340/leetcode-workspace/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1773-count-items-matching-a-rule](https://github.com/Balwant0340/leetcode-workspace/tree/master/1773-count-items-matching-a-rule) |
@@ -219,4 +220,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Balwant0340/leetcode-workspace/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Balwant0340/leetcode-workspace/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Balwant0340/leetcode-workspace/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
