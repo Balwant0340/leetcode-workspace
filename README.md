@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Balwant0340/leetcode-workspace/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Balwant0340/leetcode-workspace/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Balwant0340/leetcode-workspace/tree/master/0022-generate-parentheses) |
 | [1528-shuffle-string](https://github.com/Balwant0340/leetcode-workspace/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Balwant0340/leetcode-workspace/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1773-count-items-matching-a-rule](https://github.com/Balwant0340/leetcode-workspace/tree/master/1773-count-items-matching-a-rule) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Balwant0340/leetcode-workspace/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Balwant0340/leetcode-workspace/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Balwant0340/leetcode-workspace/tree/master/0120-triangle) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Balwant0340/leetcode-workspace/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Balwant0340/leetcode-workspace/tree/master/0022-generate-parentheses) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Balwant0340/leetcode-workspace/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
@@ -228,4 +231,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Balwant0340/leetcode-workspace/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Balwant0340/leetcode-workspace/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
